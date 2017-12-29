@@ -1,3 +1,4 @@
 data_tools/*
 trump_tweet_data_archive
 !data_tools/DataLoader.ipynb
+trump_tweet_data
