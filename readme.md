@@ -1,5 +1,4 @@
 # Data Science assignment data
-# {Fixing Mentions}
 Trump's twitter data collected using python-twitter. Note that much of the data has not been downloaded in the case of followers and tweets. There is also some missing data from Favorites.
 ## Tweets
 Each file is a Trump tweet or retweet. The data starts from 2016-10-05 and ends at 2017-12-15
